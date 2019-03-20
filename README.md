@@ -1,3 +1,3 @@
-# template mail - banners app
+# template mail - mail-cc-apple
 
 ![screen](gp/screen.png)
